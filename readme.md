@@ -4,7 +4,9 @@ Welcome to the NFT Contracts repository! This repository aims to cover various a
 
 ## Overview
 
-This repository serves as a comprehensive collection of NFT contract implementations and their applications. It provides a valuable resource for developers, enthusiasts, and anyone interested in learning about and exploring the world of non-fungible tokens (NFTs).
+This repository serves as a comprehensive collection of NFT contract implementations and their applications. It provides a valuable resource for developers, enthusiasts, and anyone interested in learning about and exploring the world of non-fungible tokens (NFTs).We will go all the way from minting to signature based whitelist creation step by step.
+
+Any queries are Welcome ! Hope this repo changes your perspective of NFT-Contracts
 
 ## Contents
 
